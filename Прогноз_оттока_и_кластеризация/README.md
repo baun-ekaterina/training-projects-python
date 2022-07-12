@@ -12,7 +12,6 @@
 ## Используемые инструменты и методы
 python, pandas, matplotlib, seaborn, scikit-learn, skipy, LogisticRegression, RandomForestClassifier, KMeans, дендрограмма
 
-
 ## Навыки
 Машинное обучение, классификация, кластеризация
 
