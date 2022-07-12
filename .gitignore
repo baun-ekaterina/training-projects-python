@@ -1,2 +1,2 @@
-# Исключить файлы README.md
-README.md
+# Исключить файл README.md в корне репозитория
+/README.md
